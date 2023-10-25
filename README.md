@@ -15,7 +15,7 @@ This is a Streamlit-based web application that performs sentiment analysis on Tw
 ## Live Link
 **Hosted on streamlit**
 
-### 🔗https://yeswanth-63-twitter-sentiment-analysis-app-frp4ku.streamlit.app/
+### 🔗https://twitter-sentiment-analysis-hfxkywmpkrxnfgm8thgltw.streamlit.app/
 <br>
 <br>
 
