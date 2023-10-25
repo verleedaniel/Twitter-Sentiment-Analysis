@@ -48,19 +48,19 @@ The sentiment analysis model is trained using logistic regression on a labeled d
 
 ## for positive sentiment 😄
 
-![Description 1](https://github.com/yeswanth-63/Twitter-Sentiment-Analysis/blob/main/images/for_positive_tweet_prediciton.png)
+![Description 1](https://github.com/verleedaniel/Twitter-Sentiment-Analysis/blob/main/images/for_positive_tweet_prediciton.png)
 
 ## for negative sentiment 😞
 
-![Description 2](https://github.com/yeswanth-63/Twitter-Sentiment-Analysis/blob/main/images/for_negative_prediction.png )
+![Description 2](https://github.com/verleedaniel/Twitter-Sentiment-Analysis/blob/main/images/for_negative_prediction.png)
 
 ## for neutral sentiment 😐
 
-![Description 1](https://github.com/yeswanth-63/Twitter-Sentiment-Analysis/blob/main/images/neutral_tweet_prediction.png )
+![Description 1](https://github.com/verleedaniel/Twitter-Sentiment-Analysis/blob/main/images/neutral_tweet_prediction.png)
 
 ## for Irrelevant sentiment 🤔
 
-![Description 1](https://github.com/yeswanth-63/Twitter-Sentiment-Analysis/blob/main/images/for_irrelevant_prediction.png )
+![Description 1](https://github.com/verleedaniel/Twitter-Sentiment-Analysis/blob/main/images/for_irrelevant_prediction.png)
 
 ## Thank You!
 Thank you. **I hope you liked the project**.
